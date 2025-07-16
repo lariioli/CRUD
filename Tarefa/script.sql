@@ -1,0 +1,5 @@
+CREATE DATABASE Tarefa;
+USE Tarefa;
+
+
+SHOW TABLES;
