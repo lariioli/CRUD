@@ -1,4 +1,4 @@
-namespace Tarefa.Models;
+namespace TarefaApp.Models;
 
 public class ErrorViewModel
 {

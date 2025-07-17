@@ -8444,11 +8444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\CRUD\\Tarefa\\Tarefa.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\Sara\\CRUD\\Tarefa\\Tarefa.csproj",
       "projectName": "Tarefa",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\CRUD\\Tarefa\\Tarefa.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Sara\\CRUD\\Tarefa\\Tarefa.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Larissa\\CRUD\\Tarefa\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\Sara\\CRUD\\Tarefa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
